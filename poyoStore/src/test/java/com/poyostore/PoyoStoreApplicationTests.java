@@ -1,4 +1,4 @@
-package com.example.poyostore;
+package com.poyostore;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
